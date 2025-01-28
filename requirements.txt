@@ -4,3 +4,4 @@ transformers
 Pillow
 requests
 uvicorn
+torch
