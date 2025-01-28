@@ -1,0 +1,6 @@
+fastapi
+pydantic
+transformers
+Pillow
+requests
+uvicorn
